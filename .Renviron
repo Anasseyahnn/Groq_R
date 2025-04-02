@@ -1,4 +1,4 @@
-GROQ_API_KEY=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
+GROQ_API_KEY=gsk_xxx
 GROQ_model="qwen-2.5-32b"
 GROQ_systemRole = "Tu es un assistant IA qui aide avec l'analyse de données en R."
 GROQ_maxTokens=2500
