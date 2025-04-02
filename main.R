@@ -1,0 +1,3 @@
+library(groqR)
+
+ask("Salut")
